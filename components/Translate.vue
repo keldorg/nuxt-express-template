@@ -27,11 +27,11 @@
         margin: 20px 20px 0 20px;
     }
     a {
-        color: white;
+        color: #39aebe;
         border-right: 1px solid white;
         padding: 0 5px;
     }
     a:hover, a:focus, a:visited {
-        color: #39aebe;
+        color: #2f8fbe;
     }
 </style>
